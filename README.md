@@ -1,4 +1,4 @@
-### Hi I'm Mandar 👋
+### Hi!, I'm Mandar 👋
 
 - I currently work on web application development with PHP, MySql, CSS, HTML, JavaScript & jQuery
 - Interested in acquiring a competency in predictive analytics, deep learning & data visualization techniques to drive decisions
