@@ -1,6 +1,6 @@
 ### Hi!, I'm Mandar 👋
 
-- I currently work on application development with PHP, MySql, CSS, HTML, JavaScript & jQuery
-- Interested in acquiring a competency in predictive analytics, deep learning & data visualization techniques to drive decisions
-- Previously worked on Java, MongoDb & documentation/automation of testing for REST APIs
+- Former web application/software developer
+- Previously worked on Java, MongoDb, PHP, MySql, CSS, HTML, JavaScript, jQuery & documentation/automation of testing for REST APIs 
+- Currently a data science graduate at Worcester Polytechnic Institute (Worcester, Massachusetts)
 - How to reach me: https://www.linkedin.com/in/mandar-nadkarni/
